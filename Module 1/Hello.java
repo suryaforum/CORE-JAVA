@@ -4,3 +4,5 @@ public class Hello {
         System.out.println("Hello, World!");
     }
 }
+
+// Unicode of अ is 0905
