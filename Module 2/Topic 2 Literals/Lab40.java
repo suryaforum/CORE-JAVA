@@ -10,7 +10,7 @@ public class Lab40 {
         int y = str2.length(); // 10
         System.out.println(y); // 10
 
-        String str3 = "Java the best programming language";
+        String str3 = "Java programming";
         System.out.println(str3);
         int z = str3.length(); // 36
         System.out.println(z); // 36
